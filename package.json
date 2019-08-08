@@ -4,6 +4,10 @@
   "description": "xin♥lin",
   "version": "0.0.1",
   "publisher": "helloca",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangxiaoxin/lin-xin.git"
+  },
   "engines": {
     "vscode": "^1.36.0"
   },
